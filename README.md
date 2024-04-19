@@ -15,13 +15,13 @@
     <img src="https://i.imgur.com/jD4yeRY.png" width="500" alt="Delete">
 </p>
 
-## Structure of the Main Files
+## Structure of the Main Files ⛓️
 
 ```
 .
 ├── wwwroot/
 │   ├── assets/
-│   │   ├── index.html/
+│   │   ├── index.html/ (contiene los enlaces)
 ├── Layout/
 │   ├── MainLayout.razor/
 │   ├── NavMenu.razor/
@@ -31,7 +31,7 @@
 ├── Venta.cs
 ```
 
-## Technologies Used
+## Technologies Used 💻
 
 - HTML5
 - CSS3
@@ -43,4 +43,3 @@
 - .NET 8
 - Visual Studio 2022
 
-- 
