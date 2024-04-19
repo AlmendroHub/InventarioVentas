@@ -10,7 +10,7 @@
 ## Blazor WebAssembly on .NET8 👾
 
 <p align="center">
-    <img src="https://i.imgur.com/0FiFOHY.png" width="500" alt="Home">
+    <img src="https://i.imgur.com/9MljAMN.png" width="500" alt="Home">
     <img src="https://i.imgur.com/JyRchj8.png" width="500" alt="Edit">
     <img src="https://i.imgur.com/jD4yeRY.png" width="500" alt="Delete">
 </p>
