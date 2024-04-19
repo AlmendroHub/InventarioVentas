@@ -17,6 +17,8 @@
 
 ## Structure of the Main Files
 
+```
+.
 ├── InventarioVentas/
 ├── wwwroot/
 │   ├── assets/
@@ -28,6 +30,7 @@
 │   ├── Encabezado.razor/
 │   ├── Home.razor/
 ├── Venta.cs
+```
 
 ## Technologies Used
 
