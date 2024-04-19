@@ -3,5 +3,6 @@
 </p>
    
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-DONE-green">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    <img src="https://img.shields.io/badge/STATUS-DONE-green">
 </p>
