@@ -14,3 +14,31 @@
     <img src="https://i.imgur.com/JyRchj8.png" width="500" alt="Edit">
     <img src="https://i.imgur.com/jD4yeRY.png" width="500" alt="Delete">
 </p>
+
+## Structure of the Main Files
+
+├── InventarioVentas/
+├── wwwroot/
+│   ├── assets/
+│   │   ├── index.html/
+├── Layout/
+│   ├── MainLayout.razor/
+│   ├── NavMenu.razor/
+├── Pages/
+│   ├── Encabezado.razor/
+│   ├── Home.razor/
+├── Venta.cs
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Javascript
+- Bootstrap
+- Blazor
+- C#
+- LINQ
+- .NET 8
+- Visual Studio 2022
+
+- 
