@@ -19,7 +19,6 @@
 
 ```
 .
-├── InventarioVentas/
 ├── wwwroot/
 │   ├── assets/
 │   │   ├── index.html/
