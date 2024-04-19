@@ -21,13 +21,13 @@
 .
 ├── wwwroot/
 │   ├── assets/
-│   │   ├── index.html/ (contiene los enlaces)
+│   │   ├── index.html/ (links for Bootstrap, JS...)
 ├── Layout/
 │   ├── MainLayout.razor/
 │   ├── NavMenu.razor/
 ├── Pages/
-│   ├── Encabezado.razor/
-│   ├── Home.razor/
+│   ├── Encabezado.razor/ (header data)
+│   ├── Home.razor/ (main code of the whole project from where clients are added, modified and deleted)
 ├── Venta.cs
 ```
 
