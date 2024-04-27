@@ -15,7 +15,7 @@
     <img src="https://i.imgur.com/jD4yeRY.png" width="500" alt="Delete">
 </p>
 
-## Structure of the Main Files ⛓️
+## File Structure ⛓️
 
 ```
 .
