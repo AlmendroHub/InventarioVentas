@@ -15,6 +15,10 @@
     <img src="https://i.imgur.com/jD4yeRY.png" width="500" alt="Delete">
 </p>
 
+## About The Project 🌟
+
+It's a project done with Blazor WebAssembly on .NET8, where a small sales system has been created to add, edit or delete the clients, always counting the quantities worked.
+
 ## File Structure ⛓️
 
 ```
