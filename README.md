@@ -20,7 +20,6 @@
 It's a project done with Blazor WebAssembly on .NET8, where a small sales system has been created to add, edit or delete the clients, always counting the quantities worked.
 
 ## File Structure ⛓️
-
 ```
 .
 ├── wwwroot/
